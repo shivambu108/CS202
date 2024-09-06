@@ -3,7 +3,7 @@
 // CS202 - DAA
 // Lab 3
 // 23/08/2024
-// Program 1 : Select ith smallest element from an unsorted array.
+// Program 2 : Select ith smallest element from an unsorted array.
 
 #include <bits/stdc++.h>
 using namespace std;
